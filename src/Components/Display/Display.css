@@ -1,0 +1,8 @@
+#displaylink{
+    text-decoration: none;
+}
+.del{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

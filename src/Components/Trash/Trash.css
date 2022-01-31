@@ -1,0 +1,25 @@
+.span{
+    height: 10vh;
+    width: 53vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    padding: 2vh;
+}
+span:first-child{
+    width: fit-content;
+    font-size: 3vh;
+    font-weight: 600;
+}
+#resto{
+    font-size: 3vh;
+}
+#restore{
+    display: flex;
+    align-items: center;
+}
+.list-group-item{
+    display: flex;
+    align-items: center;
+}
